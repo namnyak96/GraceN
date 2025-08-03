@@ -949,7 +949,7 @@
                 </div>
                 <div class="about-image">
                     <div class="image-placeholder">
-                        <i class=imagesprofile-pic.jpg></i>
+                        <i class="fas fa-user"></i>
                     </div>
                 </div>
             </div>
